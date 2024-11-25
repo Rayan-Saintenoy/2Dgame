@@ -7,7 +7,7 @@ SpaceInvahess est un jeu inspiré de Space Invaders, avec une jouabilité à l'h
 ### Style de jeu
 
 - **Demo** : L'objectif de la demo et de permettre au joueur de découvrir le jeu. Il pourra ensuite se familiariser avec les commandes afin de définir les touches qui lui conviennent via les paramètres -> `Settings`.
-- **Arcade** : L'objectif est de réaliser le meilleur score possible. Le joueur commence avec trois vies et doit éviter les ennemis ainsi qu'esquiver les projectiles pour survivre. Le joueur perd une vie s'il subit trop de dégâts ou s'il entre en collision avec un vaisseau ennemi. Le jeu se termine quand le joueur perd toutes ses vies.
+- **Arcade** : L'objectif est de réaliser le meilleur score possible (5 niveaux disponnibles pour l'instant). Le joueur commence avec trois vies et doit éviter les ennemis ainsi qu'esquiver les projectiles pour survivre. Le joueur perd une vie s'il subit trop de dégâts ou s'il entre en collision avec un vaisseau ennemi. Le jeu se termine quand le joueur perd toutes ses vies.
 
 ## Prérequis
 
