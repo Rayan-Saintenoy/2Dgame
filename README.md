@@ -28,11 +28,12 @@ SpaceInvahess est un jeu inspiré de Space Invaders, avec une jouabilité à l'h
 - Allez dans les `Settings` d'IntelliJ.
 - Sous `Project Structure`, sélectionnez `Project SDK` et choisissez `JDK 21`.
 
-4. **Exécuter le projet** : Localisez la classe principale dans le dossier `src` (souvent nommée `Main` ou similaire). Faites un clic droit dessus et sélectionnez `Run 'Main'` pour lancer le jeu.
+4. **Exécuter le projet** : 
+- Localisez la classe principale dans le dossier `lwjgl3/src/main/java/io/SpaceInvahess/Game/lwjgl3`.
+- Puis faites un click gauche sur le boutton play en haut à droite de l'interface d'intelliJ pour lancer le jeu.
+- Si vous rencontrer des problèmes ou que vôtre button play est grisée essayer de relancer l'importation du projet graddle.
 
-5. **UML Diagram** : Un diagramme UML décrivant la structure du projet est disponible dans le fichier `SpaceInvahess.drawio`. Ce diagramme peut être ouvert avec Draw.io pour une vue d’ensemble de l'architecture et des relations entre les classes.
-
-6. **Javadoc** : Une Javadoc est disponnible si on lance la page HTML grâce au chemin suivant `./javadoc/index.html`.
+6. **UML Diagram** : Un diagramme UML décrivant la structure du projet est disponible dans le fichier `SpaceInvahess.drawio`. Ce diagramme peut être ouvert avec Draw.io pour une vue d’ensemble de l'architecture et des relations entre les classes.
 
 ## Commandes de jeu
 
